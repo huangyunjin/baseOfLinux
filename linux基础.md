@@ -28,3 +28,14 @@ grep命令是查找
 chmod +x ./test.sh  #使脚本具有执行权限
 ./test.sh  #执行脚本
 ```
+
+
+#### -eq	等于则为真  equal
+#### -ne	不等于则为真  not equal
+#### -gt	大于则为真 greater than
+#### -ge	大于等于则为真  great than or equal
+#### -lt	小于则为真   less than
+#### -le	小于等于则为真    less than or equal
+
+
+
